@@ -1,3 +1,24 @@
 body{
-  background-color: #e3fdfd;
+
+  margin: 0;
+  text-align: center;
+
+}
+h1{
+  margin: 0 auto 0 auto;
+
+}
+.top-container{
+background-color: #e3fdfd;
+height: 400px;
+  margin: 0;
+}
+.mountain{
+  margin: 0;
+  position: relative;
+  left: 350px;
+height: 500px;
+width:600px;
+
+
 }
