@@ -5,20 +5,35 @@ body{
 
 }
 h1{
-  margin: 0 auto 0 auto;
+  color: #66bfbf;
+  margin: 80px 300px 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 4.5em;
 
+}
+.p1{
+    color: #66bfbf;
+margin: 10px 300px 20px auto;
+font-family: 'Merriweather', serif;
+font-weight: 300;
+font-size: 1.2em;
 }
 .top-container{
 background-color: #e3fdfd;
+
+padding-right: 100px;
+padding-top: 80px;
 height: 400px;
-  margin: 0;
+margin: 0;
+position: relative;
 }
 .mountain{
-  margin: 0;
-  position: relative;
-  left: 350px;
+
+position: relative;
+left: 380px;
 height: 500px;
-width:600px;
-
-
+bottom: 140px;
+width:600px;}
+.middle-container{
+  padding-top: 100px;
 }
